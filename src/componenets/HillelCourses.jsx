@@ -13,3 +13,4 @@ const HillelCourses = () => {
 }
 
 export default HillelCourses;
+
